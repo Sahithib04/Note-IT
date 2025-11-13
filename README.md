@@ -35,10 +35,5 @@ npm install
 
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## 📚 Documentation
+ 
 
-Check out the [Medium article](https://medium.com/@tarimbilal4/create-a-notes-app-using-react-and-local-storage-31c37261a288) for a detailed walkthrough of the project, including how to implement custom hooks and further customize the app. 
-
-## 🧩 Customization
-
-Feel free to customize the app to suit your needs. You can modify the stylesheets and add more features as desired.
